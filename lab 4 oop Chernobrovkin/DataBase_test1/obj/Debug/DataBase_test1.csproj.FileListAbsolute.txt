@@ -1,0 +1,40 @@
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.csprojAssemblyReference.cache
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.Properties.Resources.resources
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.csproj.GenerateResource.cache
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.csproj.CoreCompileInputs.cache
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\bin\Debug\DataBase_test1.exe.config
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\bin\Debug\DataBase_test1.exe
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\bin\Debug\DataBase_test1.pdb
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.exe
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.pdb
+G:\VS2017_Projects\DataBase_test1\DataBase_test1\obj\Debug\DataBase_test1.MainForm.resources
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.exe.config
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.exe
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.pdb
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csprojAssemblyReference.cache
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.MainForm.resources
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.Properties.Resources.resources
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csproj.GenerateResource.cache
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csproj.CoreCompileInputs.cache
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.exe
+C:\Users\Pisos\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.pdb
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.exe.config
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.exe
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\bin\Debug\DataBase_test1.pdb
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csprojAssemblyReference.cache
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.MainForm.resources
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.Properties.Resources.resources
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csproj.GenerateResource.cache
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.csproj.CoreCompileInputs.cache
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.exe
+C:\Users\Roboveg-PC\Desktop\oop-lab4-GurulevPavel199875Rus-master\DataBase_test1\obj\Debug\DataBase_test1.pdb
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\bin\Debug\DataBase_test1.exe.config
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\bin\Debug\DataBase_test1.exe
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\bin\Debug\DataBase_test1.pdb
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.csprojAssemblyReference.cache
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.MainForm.resources
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.Properties.Resources.resources
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.csproj.GenerateResource.cache
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.csproj.CoreCompileInputs.cache
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.exe
+C:\Users\Pisos\Desktop\lab 4 oop Chernobrovkin\DataBase_test1\obj\Debug\DataBase_test1.pdb
